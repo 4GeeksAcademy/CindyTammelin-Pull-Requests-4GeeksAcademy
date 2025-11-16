@@ -1,0 +1,64 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+  name: "Cindy Tammelin"
+  label: "Full Stack Developer Student"
+  email: "cindy.tammelin@gmail.com"
+  phone: ""
+  summary: "Estudiante apasionada del desarrollo web."
+  location:
+    address: "Honduras"
+    postalCode: "12101"
+    city: "Tegucigalpa"
+    countryCode: "12101"
+    region: "Centro America"
+  profiles:
+    - network: "GitHub"
+      username: "CindyTammelin"
+      url: "https://github.com/CindyTammelin"
+
+education:
+  - institution: "4Geeks Academy"
+    area: "Full Stack Development"
+    studyType: "Coding Bootcamp"
+    startDate: "octubre 2025"
+    endDate: "2026"
+    courses:
+      - "HTML, CSS, JavaScript"
+      - "React, Python, Flask"
+      - "Git, GitHub, Bootstrap"
+
+experiences:
+  - company: "Grupo Ficohsa"
+    position: "Oficial SR. Planficacion Operativa de TI"
+    startDate: ""
+    endDate: ""
+    summary: ""
+
+projects:
+  - name: "Website Colaborativo"
+    description: "Proyecto en equipo desarrollando un sitio web con Git collaboration"
+    highlights:
+      - "Trabajo colaborativo con Git y GitHub"
+      - "Desarrollo frontend con Bootstrap"
+      - "Manejo de ramas y pull requests"
+    url: "https://github.com/4GeeksAcademy/devAbreu-cohort-62-exercise-collaborative-html-website"
+
+skills:
+  - name: "Lenguajes Web"
+    level: "Beginner"
+    keywords:
+      - "HTML"
+      - "CSS"
+      - "JavaScript"
+  - name: "Frameworks"
+    level: "Beginner"
+    keywords:
+      - "Bootstrap"
+  - name: "Herramientas"
+    level: "Beginner"
+    keywords:
+      - "Git"
+      - "GitHub"
+      - "VS Code"
